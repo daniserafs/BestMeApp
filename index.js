@@ -1,0 +1,1 @@
+process.stdout.write("something") // standard out from the process
